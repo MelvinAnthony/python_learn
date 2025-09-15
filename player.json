@@ -1,0 +1,26 @@
+[
+    {
+        "player_id": "86a4bbf0-9ad7-4402-8db3-30ea983992e0",
+        "Name": "MSD",
+        "Role": "WK",
+        "Jersey No": 7,
+        "Stats": [
+            {
+                "Runs": 55,
+                "Wickets": 2
+            },
+            {
+                "Runs": 98,
+                "Wickets": 0
+            },
+            {
+                "Runs": 10,
+                "Wickets": 0
+            }
+        ],
+        "Team Played": [
+            "AUS",
+            "ENG"
+        ]
+    }
+]
